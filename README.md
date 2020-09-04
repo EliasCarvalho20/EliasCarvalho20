@@ -1,4 +1,4 @@
-<img align="center" width="60%" src="https://i.imgur.com/2yf2OSc.png"/>
+<img align="center" width="60%" src="https://i.imgur.com/PeHzKhT.png"/>
 
 ## About me!
 
@@ -16,7 +16,7 @@
 
 ------
 
-## 🚀 Skills
+## <img width="30px" src="https://i.imgur.com/6ynJdoG.png"/> Skills
 
 <img align="left" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> 
@@ -29,7 +29,7 @@
 ------
 
 
-## ⚙️ Tools:
+## <img width="30px" src="https://i.imgur.com/fiNXuzG.png"/> Tools:
 
 <img align="left" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> <img align="left" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/PyCharm_Logo.svg/1024px-PyCharm_Logo.svg.png" /> <img align="left" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/WebStorm.png/1200px-WebStorm.png" /> <img align="left" width="35px" src="https://image.flaticon.com/icons/svg/25/25231.svg" />
 <br />
