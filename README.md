@@ -31,7 +31,7 @@
 
 ## ⚙️ Tools:
 
-<img align="center" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> <img align="left" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/PyCharm_Logo.svg/1024px-PyCharm_Logo.svg.png" /> <img align="left" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/WebStorm.png/1200px-WebStorm.png" /> <img align="left" width="35px" src="https://image.flaticon.com/icons/svg/25/25231.svg" />
+<img align="left" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> <img align="left" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/PyCharm_Logo.svg/1024px-PyCharm_Logo.svg.png" /> <img align="left" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/WebStorm.png/1200px-WebStorm.png" /> <img align="left" width="35px" src="https://image.flaticon.com/icons/svg/25/25231.svg" />
 
 
 ------
@@ -40,6 +40,4 @@
 
 [twitter]: https://twitter.com/eliascarvalho22
 [linkedin]: https://www.linkedin.com/in/elias-carvalho
-[gmail]: eliascarvalho153@gmail.com
-[discord]: Elias#9821
 [Hyperskill]: https://hyperskill.org/profile/18560703
