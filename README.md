@@ -4,7 +4,7 @@
 
 - 👋 I'm Elias Carvalho! I'm a Web Developer Student.
 - 💻 I'm currently creating new Front-end Topics at JetBrains Academy a.k.a [Hyperskill][Hyperskill] and I'm also a Community Moderator there, helping other students, reporting bugs, etc.
-- 📚 Right now I'm learning Front-end at [Trybe][Trybe] and Python at [Hyperskill][Hyperskill].
+- 📚 Right now I'm learning Front-end at [Trybe] and Python at [Hyperskill][Hyperskill].
 - 👨‍💻 I believe that all people should have access to education.
 - 🗓️ 2020 Goals: Help as many people as possible and finish all my courses. 💯
 - 🎧 Fun fact: 🎶 I'm a music junkie 🎶
@@ -42,4 +42,4 @@
 [linkedin]: https://www.linkedin.com/in/elias-carvalho
 [gmail]: https://gist.github.com/EliasCarvalho20/424b705e7ebbeb5de3f7b5194e83070f
 [Hyperskill]: https://hyperskill.org/profile/18560703
-[Trybe]: https://www.betrybe.com/{:target="_blank"}
+[Trybe]: https://www.betrybe.com/?target=_blank
