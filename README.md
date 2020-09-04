@@ -9,15 +9,12 @@
 - 🗓️ 2020 Goals: Help as many people as possible and finish all my courses. 💯
 - 🎧 Fun fact: 🎶 I'm a music junkie 🎶
 
-<br />
-
 ## 👨👩 Social
 
 [<img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin] [<img align="center" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter] [<img align="center" alt="eliascarvalho153@gmail.com" src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />][gmail] [<img align="center" alt="Elias#9821" src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" />][discord]
 
----
 
-<br />
+------
 
 ## 🚀 Skills
 
@@ -30,7 +27,6 @@
 
 ------
 
-<br />
 
 ## ⚙️ Tools:
 
