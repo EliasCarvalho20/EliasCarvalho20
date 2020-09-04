@@ -42,4 +42,4 @@
 [linkedin]: https://www.linkedin.com/in/elias-carvalho
 [gmail]: https://gist.github.com/EliasCarvalho20/424b705e7ebbeb5de3f7b5194e83070f
 [Hyperskill]: https://hyperskill.org/profile/18560703
-[Trybe]: https://www.betrybe.com/
+[Trybe]: (https://www.betrybe.com/){:target="_blank"}
