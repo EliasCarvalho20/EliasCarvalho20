@@ -27,18 +27,17 @@
 <img align="left" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/>
 
----
+
+------
 
 <br />
 
 ## ⚙️ Tools:
 
-<img align="center" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/PyCharm_Logo.svg/1024px-PyCharm_Logo.svg.png" />
-<img align="left" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/WebStorm.png/1200px-WebStorm.png" />
-<img align="left" width="35px" src="https://image.flaticon.com/icons/svg/25/25231.svg" />
+<img align="center" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> <img align="left" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/PyCharm_Logo.svg/1024px-PyCharm_Logo.svg.png" /> <img align="left" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/WebStorm.png/1200px-WebStorm.png" /> <img align="left" width="35px" src="https://image.flaticon.com/icons/svg/25/25231.svg" />
 
----
+------
+
 [twitter]: https://twitter.com/eliascarvalho22
 [linkedin]: https://www.linkedin.com/in/elias-carvalho
 [gmail]: eliascarvalho153@gmail.com
