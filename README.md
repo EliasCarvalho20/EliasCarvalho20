@@ -11,7 +11,7 @@
 
 ## <img align="center" width="30px" src="https://i.imgur.com/sJFB1V5.png"/> Social
 
-[<img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin] [<img align="center" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter] <img align="center" alt="eliascarvalho153@gmail.com" src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /> <img align="center" alt="Elias#9821" src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" />
+[<img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin] [<img align="center" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter] [<img align="center" src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />][gmail] [<img align="center" src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" />][gmail]
 
 
 ------
@@ -40,4 +40,5 @@
 
 [twitter]: https://twitter.com/eliascarvalho22
 [linkedin]: https://www.linkedin.com/in/elias-carvalho
+[gmail]: https://gist.github.com/EliasCarvalho20/424b705e7ebbeb5de3f7b5194e83070f
 [Hyperskill]: https://hyperskill.org/profile/18560703
