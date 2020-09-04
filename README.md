@@ -1,4 +1,4 @@
-<img align="center" width="80%" src="https://i.imgur.com/2yf2OSc.png"/>
+<img align="center" width="60%" src="https://i.imgur.com/2yf2OSc.png"/>
 
 ## About me!
 
