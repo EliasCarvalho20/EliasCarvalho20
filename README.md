@@ -1,4 +1,4 @@
-<img align="center" width="60%" src="https://i.imgur.com/PeHzKhT.png"/>
+# Hello Friend!
 
 ## About me!
 
@@ -7,7 +7,6 @@
 - 📚 Right now I'm learning Front-end Web Development at [Trybe][Trybe] and Python at [Hyperskill][Hyperskill].
 - 👨‍💻 I believe that everyone should have access to education.
 - 🗓️ 2020 Goals: Help as many people as possible and finish all my courses. 💯
-- 🎧 Fun fact: 🎶 I'm a music junkie 🎶
 
 ## <img align="center" width="30px" src="https://i.imgur.com/sJFB1V5.png"/> Social
 
