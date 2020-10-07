@@ -6,7 +6,7 @@
 - 💻 I'm currently creating new Front-end Topics at JetBrains Academy a.k.a [Hyperskill][Hyperskill] and I'm also a Community Moderator there.
 - 📚 Right now I'm learning Front-end Web Development at [Trybe][Trybe] and Python at [Hyperskill][Hyperskill].
 - 👨‍💻 I believe that everyone should have access to education.
-- 🗓️ 2020 Goals: Help as many people as possible and finish all my courses. 💯
+- 🗓️ 2020 Goals: Help as many people as possible and finish all my courses.
 
 ## <img align="center" width="30px" src="https://i.imgur.com/sJFB1V5.png"/> Social
 
@@ -20,6 +20,7 @@
 <img align="left" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> 
 <img align="left" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+<img align="left" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 <img align="left" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/>
 
@@ -30,7 +31,7 @@
 
 ## <img align="center" width="30px" src="https://cdn4.iconfinder.com/data/icons/seo-and-digital-marketing-5-2/128/239-512.png"/> Tools
 
-<img align="left" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> <img align="left" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/PyCharm_Logo.svg/1024px-PyCharm_Logo.svg.png" /> <img align="left" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/WebStorm.png/1200px-WebStorm.png" /> <img align="left" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" />
+<img align="left" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> <img align="left" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/PyCharm_Logo.svg/1024px-PyCharm_Logo.svg.png" /> <img align="left" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/WebStorm.png/1200px-WebStorm.png" /> <img align="left" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" /> <img align="left" width="35px" src="https://i.imgur.com/uDYtnyp.png" />
 <br />
 
 ------
