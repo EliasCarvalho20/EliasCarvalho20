@@ -6,11 +6,11 @@
 - 💻 I'm currently creating new Front-end Topics at JetBrains Academy a.k.a [Hyperskill][Hyperskill] and I'm also a Community Moderator there.
 - 📚 Right now I'm learning Front-end Web Development at [Trybe][Trybe] and Python at [Hyperskill][Hyperskill].
 - 👨‍💻 I believe that everyone should have access to education.
-- 🗓️ 2020 Goals: Help as many people as possible and finish all my courses.
+- 🗓️ 2021 Goals: Help as many people as possible and finish all my courses.
 
 ## <img align="center" width="30px" src="https://i.imgur.com/sJFB1V5.png"/> Social
 
-[<img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin] [<img align="center" src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />][gmail] [<img align="center" src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" />][gmail]
+[<img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin] [<img align="center" src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />][gmail]
 
 
 ------
@@ -38,6 +38,6 @@
 
 
 [linkedin]: https://www.linkedin.com/in/elias-carvalho-98b3201b1/
-[gmail]: https://gist.github.com/EliasCarvalho20/424b705e7ebbeb5de3f7b5194e83070f
+[gmail]: mailto:eliascarvalho153@gmail.com
 [Hyperskill]: https://hyperskill.org/profile/18560703
 [Trybe]: https://www.betrybe.com/
