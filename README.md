@@ -2,11 +2,11 @@
 
 <h2 align="center"> About me!</h2>
 
-<p align="center">- 👋 I"m Elias Carvalho! I"m a Web Developer Student.</br>
+<p align="center">- 👋 I'm Elias Carvalho! I'm a Web Developer Student.</br>
 - 👨‍💻 I believe that everyone should have access to education.</br>
 - 🗓️ 2021 Goals: Help as many people as possible and finish all my courses.</br>
-- 📚 Right now I"m learning Front-end Web Development at <a href="https://www.betrybe.com/">Trybe</a> and Python at <a href="https://hyperskill.org/profile/18560703">Hyperskill</a>.</br>
-- 💻 I"m currently creating new Front-end Topics at JetBrains Academy a.k.a <a href="https://hyperskill.org/profile/18560703">Hyperskill</a> and I"m also a Community Moderator there.</br>
+- 📚 Right now I'm learning Front-end Web Development at <a href="https://www.betrybe.com/">Trybe</a> and Python at <a href="https://hyperskill.org/profile/18560703">Hyperskill</a>.</br>
+- 💻 I'm currently creating new Front-end Topics at JetBrains Academy a.k.a <a href="https://hyperskill.org/profile/18560703">Hyperskill</a> and I'm also a Community Moderator there.</br>
 </p>
 
 <h2 align="center"><img align="center" width="30px" src="https://i.imgur.com/sJFB1V5.png"/> Social</h2>
