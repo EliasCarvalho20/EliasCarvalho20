@@ -9,7 +9,6 @@
 - 💻 I'm currently creating new Front-end Topics at JetBrains Academy a.k.a <a href='https://hyperskill.org/profile/18560703'>Hyperskill</a> and I'm also a Community Moderator there.</br>
 </p>
 
-------
 
 <h2 align='center'><img align="center" width="30px" src="https://i.imgur.com/sJFB1V5.png"/> Social</h2>
 <p align='center'>
@@ -22,7 +21,6 @@
 </a>
 </p>
 
-------
 
 <h2 align='center'>
 <img align="center" width="30px" src="https://i.imgur.com/6ynJdoG.png"/> Skills
@@ -38,7 +36,6 @@
 <img width="5%" src="https://img.icons8.com/color/452/mongodb.png"/>
 </p>
 
-------
 
 <h2 align='center'>
 <img align="center" width="30px" src="https://cdn4.iconfinder.com/data/icons/seo-and-digital-marketing-5-2/128/239-512.png"/>
@@ -52,5 +49,3 @@ Tools
 <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" />
 <img width="30px" src="https://i.imgur.com/uDYtnyp.png" />
 </p>
-
-------
