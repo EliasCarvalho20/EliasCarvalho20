@@ -25,13 +25,14 @@
 </h2>
 
 <p align="center">
-<img width="5%" src="https://cdn1.iconfinder.com/data/icons/social-media-logos-7/64/css-3-512.png" alt=""/> 
-<img width="5%" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
-<img width="5%" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
-<img width="5%" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>
-<img width="5%" src="https://cdn.iconscout.com/icon/free/png-512/redux-283024.png"/>
-<img width="5%" src="https://images.squarespace-cdn.com/content/v1/576dc6d2579fb313163ccfa0/1574919316736-CW18XAGSYG8O810Q0OHB/ke17ZwdGBToddI8pDm48kP06O0_IHyRXSOOiqwgWaApZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVEsL0EX72Q6S7TgfQYQBQpkz5xM6Qt8VXd_xJGg_ziCFib8BodarTVrzIWCp72ioWw/mysql_PNG9.png?format=500w"/>
-<img width="5%" src="https://img.icons8.com/color/452/mongodb.png"/>
+<img width="5%" src="https://cdn1.iconfinder.com/data/icons/social-media-logos-7/64/css-3-512.png" alt="CSS"/> 
+<img width="5%" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/>
+<img width="5%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png" alt="TypeScript"/>
+<img width="5%" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/>
+<img width="5%" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python"/>
+<img width="5%" src="https://walde.co/wp-content/uploads/2016/09/nodejs_logo.png" alt="Node"/>
+<img width="5%" src="https://i.imgur.com/IVq2kWm.png" alt="MySql"/>
+<img width="5%" src="https://img.icons8.com/color/452/mongodb.png" alt="Mongo"/>
 </p>
 
 <h2 align="center">
@@ -40,9 +41,10 @@ Tools
 </h2>
 
 <p align="center">
-<img width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/PyCharm_Logo.svg/1024px-PyCharm_Logo.svg.png" />
-<img width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/WebStorm.png/1200px-WebStorm.png" />
-<img width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" />
-<img width="35px" src="https://i.imgur.com/uDYtnyp.png" />
+<img width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code"/>
+<img width="35px" src="https://upload.wikimedia.org/wikipedia/commons/7/71/WebStorm_Icon.png" alt="WebStorm"/>
+<img width="35px" src="https://storage.googleapis.com/cw-p1w5jpim0sdhkccw8gr/media/blog-images/logo.png" alt="Pycharm"/>
+<img width="45px" src="https://i.imgur.com/5p1PfwX.png" alt="Docker"/>
+<img width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" alt="Git"/>
+<img width="35px" src="https://i.imgur.com/uDYtnyp.png" alt="Trello"/>
 </p>
