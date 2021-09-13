@@ -1,8 +1,6 @@
 <h1 align="center">Hello Friend!</h1>
 
-<h2 align="center"> About me!</h2>
-
-<p align="center">- 👋 I'm Elias Carvalho! I'm a Data Science Student.</p>
+<h3 align="center">I'm Elias Carvalho! I'm a Data Science Student.</h2>
 
 <h2 align="center"><img align="center" width="30px" src="https://i.imgur.com/sJFB1V5.png"/> Social</h2>
 <p align="center">
