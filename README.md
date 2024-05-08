@@ -5,7 +5,7 @@
 <h2 align="center"><img align="center" width="30px" src="https://i.imgur.com/sJFB1V5.png"/> Social</h2>
 <p align="center">
 
-<a href="https://www.linkedin.com/in/elias-carvalho-98b3201b1/?locale=en_US/">
+<a target="_blank" href="https://www.linkedin.com/in/elias-carvalho-98b3201b1/?locale=en_US/">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 </p>
