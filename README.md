@@ -17,13 +17,14 @@
 <p align="center">
 <img width="5%" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python"/>
 <img width="5%" src="https://avatars.githubusercontent.com/u/177543?s=48&v=4" alt="Postgres"/>
-<img width="5%" src="https://cdn1.iconfinder.com/data/icons/social-media-logos-7/64/css-3-512.png" alt="CSS"/> 
+<img width="5%" src="https://i.imgur.com/IVq2kWm.png" alt="MySql"/>
+<img width="5%" src="https://avatars.githubusercontent.com/u/83768144?s=48&v=4" alt="Polars"/>
+<img width="5%" src="https://avatars.githubusercontent.com/u/2232217?s=48&v=4" alt="AWS"/>
 <img width="5%" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/>
 <img width="5%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png" alt="TypeScript"/>
 <img width="5%" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/>
-<img width="5%" src="https://walde.co/wp-content/uploads/2016/09/nodejs_logo.png" alt="Node"/>
-<img width="5%" src="https://i.imgur.com/IVq2kWm.png" alt="MySql"/>
-<img width="5%" src="https://img.icons8.com/color/452/mongodb.png" alt="Mongo"/>
+<img width="5%" src="https://cdn1.iconfinder.com/data/icons/social-media-logos-7/64/css-3-512.png" alt="CSS"/> 
+<img width="5%" src="https://avatars.githubusercontent.com/u/9950313?s=48&v=4" alt="Node"/>
 </p>
 
 <h2 align="center">
