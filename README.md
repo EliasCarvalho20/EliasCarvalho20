@@ -1,6 +1,6 @@
 <h1 align="center">Hello Friend!</h1>
 
-<h3 align="center">I'm Elias Carvalho! I'm a Python Lover working as a Data Engineer.</h2>
+<h3 align="center">I'm Elias! I'm a Python Lover working as a Data Engineer.</h2>
 
 <h2 align="center"><img align="center" width="30px" src="https://i.imgur.com/sJFB1V5.png"/> Social</h2>
 <p align="center">
